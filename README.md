@@ -1,5 +1,5 @@
 # sandtimer_template
-Support files for enhancing and modifying Electronic Sandtimers
+Support files for enhancing and modifying Electronic Sandtimers. **[Buy your own here!](https://www.tindie.com/products/kayvon/electronic-sand-timer-qty-6/)**
 
 ## Electronic Sandtimers?
 Electronic Sandtimers were available as part of a [Kickstarter project](https://www.kickstarter.com/projects/812600116/electronic-sandtimers-fun-meets-functional/). They arrive pre-programmed and ready to use.
