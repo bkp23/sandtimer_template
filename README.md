@@ -15,6 +15,8 @@ Create a project using PIC10LF320 and import the [template source code](src/temp
 
 ## Files/Directories
 [src/template.c](src/template.c) The template file for hacking/reprogramming the device to behave differently
+
 [3d_case directory](3d_case) Contains files and instructions for 3D printing a pretty enclosure
+
 [3d_case/DevModel directory](3d_case/DevModel) Contains files for developing your own 3d-printable case
 

@@ -11,10 +11,18 @@ By themselves, the holes do not allow much light through. For the light to reall
 
 1.5 PMMA cable is available through [eBay](https://www.ebay.com/sch/i.html?_nkw=pmma+cable) or [AliExpress]( https://www.aliexpress.com/wholesale?SearchText=pmma%20cable), among other places. A very short strand is enough for dozens of cases.
 
+![Case render](CaseRender1.jpg)
+
+![Case render2](CaseRender2.jpg)
+
 ## Files/Directories
 [CaseBottom.stl](CaseBottom.stl) 3d print STL file for the bottom half of the case
+
 [CaseTop.stl](CaseTop.stl) 3d print STL file for the top half of the case
+
 [CaseRender1.jpg](CaseRender1.jpg) A render of the aforementioned 3d files
+
 [CaseRender2.jpg](CaseRender2.jpg) Another render of the 3d files from a different angle
+
 [DevModel directory](DevModel) Support files for designing your own case
 
