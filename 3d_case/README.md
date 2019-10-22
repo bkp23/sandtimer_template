@@ -7,7 +7,7 @@ Cases were tested using 0.20mm layer height with a 0.4mm nozzle. These are prett
 # Assembly
 Ensure that the holes for the light are open. Use a heated large paperclip to widen the holes if necessary.
 
-By themselves, the holes do not allow much light through. For the light to really pop and shine, **add 1.5mm PMMA cables** and trip them flush with the top. These serve as light pipes, funneling the light from the LEDS through the case and allowing the lights to be as bright as without the case.
+By themselves, the holes do not allow much light through. For the light to really pop and shine, **add 1.5mm PMMA cables** and trim them flush with the top. These serve as light pipes, funneling the light from the LEDs through the case and allowing the lights to be as bright as without the case.
 
 1.5 PMMA cable is available through [eBay](https://www.ebay.com/sch/i.html?_nkw=pmma+cable) or [AliExpress]( https://www.aliexpress.com/wholesale?SearchText=pmma%20cable), among other places. A very short strand is enough for dozens of cases.
 
